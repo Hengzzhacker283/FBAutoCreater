@@ -1,4 +1,4 @@
-cd fbauto
+cd FBAutoCreater
 
 
 python fbauto.py
